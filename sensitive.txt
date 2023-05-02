@@ -1,1 +1,10 @@
-testing sensitive files 
+{
+  "auths": {
+    "my-registry.example:5000": {
+      "username": "tiger",
+      "password": "pass1234",
+      "email": "tiger@acme.example",
+      "auth": "dGlnZXI6cGFzczEyMzQ="
+    }
+  }
+}
